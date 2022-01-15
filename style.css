@@ -13,7 +13,7 @@ body {
     border: 1px solid #5f9341
 }
 
-.save--btn {
+.save--btn, .tab--btn {
     background-color: #5f9341;
     padding: 10px 20px; 
     border: 1px solid #5f9341; 
